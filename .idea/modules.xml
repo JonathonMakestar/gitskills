@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/RestTemplate.iml" filepath="$PROJECT_DIR$/RestTemplate/RestTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleSpringCloud-master.iml" filepath="$PROJECT_DIR$/SimpleSpringCloud-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/commons/commons.iml" filepath="$PROJECT_DIR$/RestTemplate/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/consumer/consumer.iml" filepath="$PROJECT_DIR$/RestTemplate/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RestTemplate/provider/provider (1).iml" filepath="$PROJECT_DIR$/RestTemplate/provider/provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" />
+    </modules>
+  </component>
+</project>
